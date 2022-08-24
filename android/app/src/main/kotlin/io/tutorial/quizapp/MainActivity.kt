@@ -1,0 +1,6 @@
+package io.tutorial.quizapp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
